@@ -132,6 +132,11 @@ h1{
     padding-left: 5px;
 }
 
+.proyecto-image3{
+    height: 200px; 
+    margin-right: 30px;
+    padding-left: 5px;
+}
 
 .proyecto-imageContainer img{
     max-width: 100%;
